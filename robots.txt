@@ -1,3 +1,4 @@
-User-agent: *
-Allow: 
+user-agent:*
+allow:
+disallow: /backup/
 Sitemap: https://bestrestaurantsinlahoreforcouples.netlify.app/sitemap.xml
